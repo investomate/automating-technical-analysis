@@ -9,3 +9,6 @@ scikit-learn==1.0.1
 streamlit
 tensorflow-cpu
 yfinance==0.1.70
+streamlit>=1.20.0
+setuptools>=42
+wheel
