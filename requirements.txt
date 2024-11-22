@@ -1,6 +1,6 @@
 h5py
 html5lib
-Keras==2.14.0
+Keras==3.0.0
 numpy
 pandas
 plotly
